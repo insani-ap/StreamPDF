@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Android/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/Android/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/Android/.idea/libraries" />
+      <excludeFolder url="file://$MODULE_DIR$/Backend/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/Backend/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Android/app/libs" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
